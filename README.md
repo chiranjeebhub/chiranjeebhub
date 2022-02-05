@@ -1,5 +1,12 @@
 
-
+<style>
+td{
+   border:0px;
+}
+ tr{
+ border:0px;
+ }
+</style>
 
 <table style="border:0px;">
  <tr style="border:0px;">

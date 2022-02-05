@@ -10,7 +10,7 @@ td{
 
 <table style="border:0px;">
  <tr style="border:0px;">
-    <td width="60%" style="border:0px;">
+    <td style="border:0px; width:60%">
      <h2>Hi there. Chiranjeeb here 👋</h2>
 
 - 🔭 I’m currently working at Nvest Technologies Pvt.Ltd.
